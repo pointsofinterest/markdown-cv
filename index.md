@@ -1,13 +1,14 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Nathan Hildebrand's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Nathan Hildebrand
+Geospatial Analyst
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="nathanhldbrnd@gmail.com">nathanhldbrnd@gmail.com</a>
+| <a href="https://pointsofinterest.ca">Portfolio</a>
+| <a href="https://www.linkedin.com/in/nathan-hildebrand/">LinkedIn</a>
 </div>
 
 

@@ -152,7 +152,13 @@ h3 {
 	/*top: 1.7em;
 	text-align: right;*/
 	width: 20%;
+	left: 25%;
+	display: inline-block;
 }
+
+h4 {
+	position: relative;
+	display: inline-block;
 
 a {
 	color: inherit;

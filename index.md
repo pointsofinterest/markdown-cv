@@ -12,18 +12,27 @@ Geospatial Analyst
 </div>
 
 
-## Currently
+## Experience
 
-Standing on the shoulders of giants
+### Safe Software
 
-### Specialized in
+`February 2021 - present | Vancouver`
+#### Product Manager
+I did a bunch of stuff
 
+`July 2017 - February 2021 | Vancouver`
+#### Technology Expert
 Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
+`April 2017 - June 2017 | Williams Lake`
+### Tsilhqotin National Government
 
-### Research interests
+## Skills
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+| ##### Applications  | ##### Development | ##### Methods |
+| FME                 | Python            | Agile         |
+
+
 
 
 ## Education
@@ -40,48 +49,6 @@ __Trinity College, Cambridge__
 __Trinity College, Cambridge__
 
 - Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 

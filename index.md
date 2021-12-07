@@ -16,21 +16,27 @@ Geospatial Analyst
 
 ### Safe Software
 
-`February 2021 - present | Vancouver`
 #### Product Manager
+`February 2021 - present | Vancouver`
 I did a bunch of stuff
 
-`July 2017 - February 2021 | Vancouver`
 #### Technology Expert
+`July 2017 - February 2021 | Vancouver`
 Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
 
-`April 2017 - June 2017 | Williams Lake`
 ### Tsilhqotin National Government
+
+#### GIS Intern
+
+`April 2017 - June 2017 | Williams Lake`
+Blah blah.
 
 ## Skills
 
-| ##### Applications  | ##### Development | ##### Methods |
-| FME                 | Python            | Agile         |
+|---
+| Applications | Development | Methods |
+|:-|
+| FME          | Python      | Agile   |
 
 
 

@@ -198,6 +198,13 @@ strong {
 }
 
 
+/* Testing */
+
+.main-container {
+	display: flex;
+	flex-direction: row;
+}
+
 
 /*
 @media only screen and (max-width: 480px) {

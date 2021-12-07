@@ -116,7 +116,7 @@ li ul {
 
 h1,h2,h3,h4 {
 	font-weight: 400;
-	font-family: Avenir,Cousine,Verdana,sans-serif;
+	font-family: Rubik,Avenir,Cousine,Verdana,sans-serif;
 	width: 80%;
 }
 
@@ -166,6 +166,7 @@ a:hover {
 	margin-top: 1em;
 	position: relative;
 	left: 25%;
+	width: 40%;
 	color: #bc412b;
 	font-family: Monaco,Menlo,monospace,sans-serif;
 	font-size: 100%;
